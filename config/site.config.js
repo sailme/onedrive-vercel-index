@@ -24,14 +24,14 @@ googleFontSans: 'Inter',
 googleFontMono: 'Fira Mono',
 googleFontLinks: ['https://fonts.googleapis.com/css2?family=Fira+Mono&family=Inter:wght@400;500;700&display=swap'],
 footer:
-  '感激您使用< a href="https://github.com/spencerwooo/onedrive-vercel-index" target="_blank" rel="noopener noreferrer">Onedrive Vercel索引</a>制作的哆啦松鼠。</p><p>由SpencerWoo制作的</p>',
+  '感激您使用< a href="https://github.com/spencerwooo/onedrive-vercel-index" target="_blank" rel="noopener noreferrer">Onedrive Vercel索引</a> </p><p> </p>',
 
 // [选项] 这里是您的网站布局组件。您可以在这里写HTML代码，但需要转义双引号（'） - 变成“”。您可以在任何地方写下任何东西，如果您喜欢徽章，请使用 https://shields.io 来生成一些徽章。</p>
 footer:
   '感谢您使用<a href="https://github.com/spencerwooo/onedrive-vercel-index" target="_blank" rel="noopener noreferrer">Onedrive Vercel索引</a>制作的哆啦松鼠。</p><p>由SpencerWoo制作的</p>',
 
 // [选项] 这是一个与密码保护的文件夹相关的数组。这是一个指向您拥有 .password 的所有子目录的路径数组。查看文档以获取详细信息。
-protectedRoutes: ['/🌞 私人文件夹/u-需要密码', '/🥟 一些测试文件/密码保护的路由'],
+protectedRoutes: ['/私人文件夹/u-需要密码', '/一些测试文件/密码保护的路由'],
 email: '',
 
 // [选项] 如果你想在导航栏中删除这个电子邮件地址，这里就是。
